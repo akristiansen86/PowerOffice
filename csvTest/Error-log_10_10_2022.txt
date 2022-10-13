@@ -1,0 +1,237 @@
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 811786322, Kunstmaler Lars Tveit AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 812105302, Sameiet Prinsens Gate 3b
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 812388592, HELGA LIND GÅRDEN
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 812394312, RAMSØ MASKIN IDAR RAMSØ
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 812761722, PROFF HAND AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 812830732, Bookkeeper Os AS. New Customer (OrgNo, OrgName): 812830732, ECIT OS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 812900862, DAKINI DHARMA PROJECTS AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 813050412, HAUGALAND TAK&BYGG AS. New Customer (OrgNo, OrgName): 813050412, HAUGESUND TAKSPESIALIST AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 813050412, HAUGESUND TAKSPESIALIST AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 813104482, R15 Holding AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 813132702, SET SAIL AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 813259052, SALTFJELLET HOTELL POLARSIRKELEN AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 813259842, ANDREAS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 813307782, JKG MUR AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 813322072, FAIRYTALE PRODUCTION AS. New Customer (OrgNo, OrgName): 813322072, WAAG PRODUKSJONER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 813326132, ISSO RENHOLD AL-MASRI
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 813560852, PMB EIENDOM AS. New Customer (OrgNo, OrgName): 813560852, NCG EIENDOM AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 813672812, PRATERIET SPRÅKSENTER AS. New Customer (OrgNo, OrgName): 813672812, PRATERIET LOGOPEDSENTER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814059472, ARCTIC HOST AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814068072, SAMEIET SOLSIDEN
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814073432, MR LOKALMATSENTER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814133842, PRIMA ENERGI AUST-AGDER AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 814213242, FISKUM NÆRINGSPARK AS. New Customer (OrgNo, OrgName): 814213242, FISKUMPARKEN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 814286592, BJØRNEVIK TRANSPORT AS. New Customer (OrgNo, OrgName): 814286592, BJØRNEVIK SERVICE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 814324982, STADIONPARKEN BOLIG AS. New Customer (OrgNo, OrgName): 814324982, TORVET AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 814366162, HELGELAND OPPDRETTSERVICE AS. New Customer (OrgNo, OrgName): 814366162, KVARØY OPPDRETTSERVICE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 814499022, PEPCALL AS. New Customer (OrgNo, OrgName): 814499022, XPLORA MOBILE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814530922, Sameiet Krags vei 10
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814568342, DIEM AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 814609952, Son Kiropraktikk & Helse AS. New Customer (OrgNo, OrgName): 814609952, SON KIROPRAKTIKK OG HELSE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814780082, UTTIAN FISK AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814849732, Bakermesteren Elverum AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814906442, BJØRN WILLY STENSENS TAXI
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 814973492, Br Byggservice AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815105222, SWANTECH AS. New Customer (OrgNo, OrgName): 815105222, AVA OF NORWAY AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 815179722, MEDIA DIGITAL AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815180542, ISOENERGI NORDLAND AS. New Customer (OrgNo, OrgName): 815180542, ISOBYGG NORDLAND AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 815279352, JORUNN PETERSEN
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 815286952, RAMONA SKOSALON AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 815330412, ROGALAND SPORT AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815357892, Mac & Tusj AS. New Customer (OrgNo, OrgName): 815357892, RIKTIG SPOR MO I RANA AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815497732, HAVN INVEST AS. New Customer (OrgNo, OrgName): 815497732, EVJA PROPERTY AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815609522, LINDELID AS. New Customer (OrgNo, OrgName): 815609522, LINDELID & KNUTSEN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815672852, HV VII INVEST JULIET II AS. New Customer (OrgNo, OrgName): 815672852, HAV ENERGY HOLDING AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815818652, MØRENOT ROBOTICS AS. New Customer (OrgNo, OrgName): 815818652, TROLL SYSTEMS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 815845382, Tenderhågen Eiendom AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 815847822, PURGATO SERVICE AS. New Customer (OrgNo, OrgName): 815847822, HELT RENT TJENESTER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 815896122, BULINSKI ENGINEERING
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 815938542, LISA FLATTUM
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 816107172, Hvarnes Eiendom AS. New Customer (OrgNo, OrgName): 816107172, SKOKLEMOEN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 816273242, BÅRSTUA AS. New Customer (OrgNo, OrgName): 816273242, TROMSØ SOSIALE ENTREPRENØRSKAP AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 816277752, BENT-ÅGE LUND RUSTAD
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 816315492, GUTTORMSEN BEMANNING OG UTLEIE AS. New Customer (OrgNo, OrgName): 816315492, GUTTORMSEN AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 816343372, JARNES.NO AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 816504562, ENVIRO AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 816516552, Båtsfjord Fiskedelikatesser AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 816561752, GUNNA AS. New Customer (OrgNo, OrgName): 816561752, THORIR.PHOTO AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 816667232, NORGES REALFAGSGYMNAS UNGDOMSSKOLE BÆRUM AS. New Customer (OrgNo, OrgName): 816667232, NORGES REALFAGSUNGDOMSSKOLE SANDVIKA AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 816996112, GICALA TRANSPORT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817020372, RABBEN MARINA AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817021042, LYNG ILLUSTRATED AS. New Customer (OrgNo, OrgName): 817021042, MARMÆLEN AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817021042, MARMÆLEN AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817101232, WENCHES PRODUKTER AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817110592, Eik Enter. New Customer (OrgNo, OrgName): 817110592, EIK ENTER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817181902, BESTEMORS EIENDOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817245552, NORDENA AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817279872, GOMAP AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817309682, RABBEN RESTAURANT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817398022, RETAIL SOLUTION AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817400612, NESSET DYREKLINIKK AS. New Customer (OrgNo, OrgName): 817400612, DYRLEGEN PÅ NESODDEN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817404502, TOOLER AS. New Customer (OrgNo, OrgName): 817404502, SHAREFOX AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817485812, INVENTRIX AS. New Customer (OrgNo, OrgName): 817485812, SPERA HELSE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817485812, SPERA HELSE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817554822, ALL IN SPORTS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817649602, SILING INVEST AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817650082, 2TRE GO AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817670032, STOR OSLO VEI OG ANLEGG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817708382, PARKETTSLIPEREN NORGE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817737382, NITTAYA THAIMAT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817741142, BELLE HOTELLDRIFT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817752292, MEIE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817815782, Draftit Privacy AS. New Customer (OrgNo, OrgName): 817815782, VISMA DRAFTIT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817860532, MULTISERVICE NORD NORGE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817873162, Sport Outlet Harstad 31 AS. New Customer (OrgNo, OrgName): 817873162, SPORT OUTLET ALTA 31 AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 817902022, 4 SMIL AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 817912532, BALCHENBIL AS. New Customer (OrgNo, OrgName): 817912532, AUTODRIVE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818021992, SÆTHER KYSTFISKE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818059132, FUCHS KIROPRAKTIKK. New Customer (OrgNo, OrgName): 818059132, ALFA KIROPRAKTIKK - FREDERIK FUCHS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818097832, SKRANEVEGEN 52 AS. New Customer (OrgNo, OrgName): 818097832, HEI31 AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818280122, BRISOL LOFOTEN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818343752, BIG FISH NORGE AS. New Customer (OrgNo, OrgName): 818343752, BIG FISH AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818347472, VARIAL MEDIA AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818347952, Boligutvikling Stavanger AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818370652, SALTEN FISKEINDUSTRI AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818398832, BERGSKOGEN AREAL AS. New Customer (OrgNo, OrgName): 818398832, HENRIKS VEI UTVIKLING AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818448252, TB CONSULT AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818476272, EIGANES INTERNATIONAL SCHOOL AS. New Customer (OrgNo, OrgName): 818476272, BISS SENTRUM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818500742, BLUEOCEAN MARINE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818501072, EPOXYTEC AS. New Customer (OrgNo, OrgName): 818501072, EPO INVEST AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818547102, SIKKERHET 24/7 AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818576552, HERREKLINIKKEN NORGE AS. New Customer (OrgNo, OrgName): 818576552, C SPESIALIST AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818625952, LYNGVÆR BEMANNING AS. New Customer (OrgNo, OrgName): 818625952, R. LYNGVÆR EIENDOM AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818627262, BERTGEN-BYGG AS. New Customer (OrgNo, OrgName): 818627262, BERGEN-BYGG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818671652, PUDDING-TV AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818692722, CAM Eiendom AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818705182, STR8LINE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818720572, VALLØ BÅT AS. New Customer (OrgNo, OrgName): 818720572, BBM TEKNIKK AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818772092, SVOLVÆR HAVN DRIFT AS. New Customer (OrgNo, OrgName): 818772092, KABELVÅG HAVN DRIFT AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818858892, AE HOLDCO AS. New Customer (OrgNo, OrgName): 818858892, EMTUNGA HOLDCO AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 818859872, STEINBRA BØMLO AS. New Customer (OrgNo, OrgName): 818859872, ØRJANSEN ANLEGG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 818859872, ØRJANSEN ANLEGG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819004722, ENERGISUPPORT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819006482, VIKSKJÆR AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819016682, ES BYGG OG RENOVERING STANEVICIUS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819035172, TECHFIKS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819046972, IDÉHUS HARSTAD AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819115842, Ml-Service Jukka Matias Lehtinen
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819149712, FEEL24 TROMSØ AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819155372, AAA CARCARE AS. New Customer (OrgNo, OrgName): 819155372, JESSHEIM BILPLEIE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819155372, JESSHEIM BILPLEIE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819165572, KYSTEN VANNSPORT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819167362, Baumah Krzysztof Zalewski
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819175632, B&D UTVIKLING AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819196672, Wieland BlueSea AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819307792, KAREN CONSULTING. New Customer (OrgNo, OrgName): 819307792, KAREN CONSULTING KAREN SANN FOUGNER
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819392692, KNH AS. New Customer (OrgNo, OrgName): 819392692, USOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819405042, KURSEKSPERTEN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819418462, WILDPHOTO NORWAY AS. New Customer (OrgNo, OrgName): 819418462, SMØLA NATUROPPLEVELSER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819481822, HENRIETTES KJØKKEN HAUGALANDET AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819487812, ASKIMREGIONEN NÆRINGSUTVIKLING AS. New Customer (OrgNo, OrgName): 819487812, INDRE ØSTFOLD NÆRINGSUTVIKLING AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819502102, TENDRA AS. New Customer (OrgNo, OrgName): 819502102, KODA GROUP AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819572062, GRØNN BOLIG HOLMESTRAND AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819607842, Sport Norge Kristiansund 515 AS. New Customer (OrgNo, OrgName): 819607842, SPORT OUTLET STOVNER 75 AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819760772, INGSCAN AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819794952, B.TVEIT
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819827842, EA Solutions AS. New Customer (OrgNo, OrgName): 819827842, KYMAR SOLUTIONS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819855412, Nordisk Vedlikehold AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819886482, SAMEIET PRESTGÅRDSLIA
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 819944962, PROENCO AS. New Customer (OrgNo, OrgName): 819944962, ASCERTA AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819997292, 7 FJELL KJEVEORTOPEDI AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 819999422, TRULS REPPE
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820119282, FNP I4-3 AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820119312, FNP I4-4 AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820123212, LOFOTEN TRUCKSERVICE UTLEIE AS. New Customer (OrgNo, OrgName): 820123212, LOFOTEN UTLEIESENTER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820169522, Somna AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820174402, HBAUER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820175972, WT INVESTMENT AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820180682, HAUGMO AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820184602, Eierseksjonssameiet Sem Hageby
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820230582, SAMEIET KONGENS GATE 28 A-B
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820251342, WEBJØRNSEN TRADING
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820320832, SKARVHYTTA AS. New Customer (OrgNo, OrgName): 820320832, REINE UTVIKLING AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820365232, HJORTERO EIENDOM AS. New Customer (OrgNo, OrgName): 820365232, FJELLHAMMERVEIEN 11C AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820365682, PRORES FIELD MANAGEMENT AS. New Customer (OrgNo, OrgName): 820365682, WELL INTERCEPT AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820430662, GEO BODØ AS. New Customer (OrgNo, OrgName): 820430662, GEO GRUPPEN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820444132, STENVIK POWER GROUP AS. New Customer (OrgNo, OrgName): 820444132, SPG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820460642, TETT BYGG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820465792, Tregården Restaurant AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820548442, Sport Norge Mo i Rana 519 AS. New Customer (OrgNo, OrgName): 820548442, SPORT OUTLET KILDEN 73 AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820601882, Leirosen Garasjedrift AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820625692, FLØIEN EIENDOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820627032, AITRAP AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820659112, BLAALID RIV & BYGG AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820828682, SØRVÅGEN KYSTFISKE AS. New Customer (OrgNo, OrgName): 820828682, KRANSVIK KYSTFISKE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820914872, ALU VINDUER AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820919092, RAC KANTINEDRIFT AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 820930762, BYGG & VA RÅDGIVEREN AS. New Customer (OrgNo, OrgName): 820930762, EKS RØRFORNYING AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820931262, ENERGI EIENDOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 820938062, STRØMSVIK OFFSHORE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821072212, HILDRING HAVN AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821094682, Startuplab Founders AS. New Customer (OrgNo, OrgName): 821094682, STARTUPLAB FOUNDERS FUND III AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821154502, Smart Arctic AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821160022, Strendene Utviklingsselskap AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821180252, GS TRANSPORT SJAFKAT ASIF GONDAL
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821182042, SVALBARD KYSTFISKE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821193842, Therese Kjøreskole AS. New Customer (OrgNo, OrgName): 821193842, THERESES TRAFIKKSKOLE AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821196922, AveXis Switzerland GmbH. New Customer (OrgNo, OrgName): 821196922, NOVARTIS GENE THERAPIES SWITZERLAND GMBH
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821199832, BIRKELAND TOTALENTREPRENØR AS. New Customer (OrgNo, OrgName): 821199832, ØSTLANDSKE BYGG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821284732, HAMNAHOLMEN MARINA AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821306272, AMUNDSEN BAD & FLIS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821307872, ASBJØRNSEN BYGG
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821332532, ROBOTIC TOWBARS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821356172, SAMEIET HVETEVEGEN BKS7
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821377242, A MONCLAIR. New Customer (OrgNo, OrgName): 821377242, MONCLAIR TRANSPORT
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821453402, SAMEIET AUREOSEN BRYGGE
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821456002, AURSNES & PARTNERS EIENDOMSMEGLING ÅLESUND AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821479762, ANDERS SKJOLDSVEI 26,28,30,32 OG 34. New Customer (OrgNo, OrgName): 821479762, SAMEIET ANDERS SKJOLDS VEI 26,28,30,32 OG 34
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821479762, SAMEIET ANDERS SKJOLDS VEI 26,28,30,32 OG 34
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821515432, KAPP SECURITIES AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821533112, Snekker R. Ness AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821542332, LUNA HANDEL AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821553962, EIERSEKSJONSSAMEIET EPLEHAGEN
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821588782, GRÜNDERKLUBBEN AS. New Customer (OrgNo, OrgName): 821588782, GK KAMPANJE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821588782, GK KAMPANJE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821648092, NORSEATECH AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821661072, BOI GREFSEN 1 AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821664462, NIPA HOLDING AS. New Customer (OrgNo, OrgName): 821664462, NIPA LIPA AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821674662, ABL SKIN AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821723922, Balanse Eigedom AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821741602, MOLNES SEAFOOD AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821763622, Bergh Consulting
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821777062, Get Accept AS. New Customer (OrgNo, OrgName): 821777062, GETACCEPT AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821800382, SOURTÀ EIENDOM AS. New Customer (OrgNo, OrgName): 821800382, SUORTÀ EIENDOM AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821829682, MOBMAN AS. New Customer (OrgNo, OrgName): 821829682, MOBMAN HOLDING AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 821903092, FROM AS. New Customer (OrgNo, OrgName): 821903092, FROM II AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 821903092, FROM II AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822017762, Sandefjord Betongsaging AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 822021662, Asfalt-Industri AS. New Customer (OrgNo, OrgName): 822021662, VALHALL-INDUSTRI AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822047572, HV VII Invest Foxtrot II AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 822055362, HR NORDIC BIDCO AS. New Customer (OrgNo, OrgName): 822055362, TALENTECH GROUP AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822059902, MIINT INTERNATIONAL R.SIKORA
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822193722, MUDO GYM NOTODDEN AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822219802, FRISØRSALONG LILLE MARIA IDZANOVIC
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822234372, Monica Kolseth
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822298362, Sandel Toader Transport
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822299792, ROGALAND HUS OG HAGE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822304842, MDP AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 822364632, MORGENSTJERNEN TRIVSELSBOLIG AS. New Customer (OrgNo, OrgName): 822364632, MORGENSTJERNEN HELSEBOLIG AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822611672, BLIKOM MEKANISKE
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 822633242, HELGELAND OPPLEVELSER AS. New Customer (OrgNo, OrgName): 822633242, ADVENTURE HELGELAND AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 822698042, Gnist Ratvika Eiendom AS. New Customer (OrgNo, OrgName): 822698042, PPP RATVIKA EIENDOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822698042, PPP RATVIKA EIENDOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822745512, Andreas Jahr AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822773052, ALTA RENHOLD AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 822810152, SLOTTSFJELLET INVEST AS. New Customer (OrgNo, OrgName): 822810152, CAMALETRI EIENDOM AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 822928552, WEX APARTMENTS AS. New Customer (OrgNo, OrgName): 822928552, WEX HOTELS AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 822953972, NRGIZE AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 823010702, MATHISEN HUS & HYTTESERVICE OLE JOHAN MATHISEN
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 823048912, LJ ERVIK CONSULTING
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 823163762, HABO-EIENDOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 823176732, EXCESS HOLDING AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 823187912, OPTUS AS. New Customer (OrgNo, OrgName): 823187912, CREATIVE HEADS AS
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 823194552, Sentrum Regnskap Edina Brohier. New Customer (OrgNo, OrgName): 823194552, EDINA BROHIER
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 823194552, EDINA BROHIER
+Update! Name has been updated. Old Customer (OrgNo, OrgName): 823212852, UGLE EIENDOM AS. New Customer (OrgNo, OrgName): 823212852, IH3 EIENDOM AS
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 823336772, Hjelsethgården Martin L. Hjelseth
+Warning! Naeringskode is empty for Customer (OrgNo, OrgName): 823566042, UNDERDAL MASKIN
